@@ -1,0 +1,2 @@
+# WordPressTemplate
+WordPressTemplateVoorEenWebshopPagina
